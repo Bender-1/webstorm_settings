@@ -1,1 +1,1 @@
-ru.adelf.idea.dotenv
+ru.adelf.idea.dotenv123
